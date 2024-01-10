@@ -22,6 +22,6 @@
 
 <img src=./public/gifs/loader1.gif alt=loader width=700px>
 
-##### _Cached search results_
+##### _Cached results_
 
-<img src=./public/gifs/cache.gif alt=cache width=700px>
+<img src=./public/gifs/cached.gif alt=cache width=700px>
